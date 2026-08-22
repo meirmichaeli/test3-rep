@@ -1,2 +1,3 @@
 # test3-rep
-git demo -made for test only- you can deleted
+git demo -made for test only- you can deleted right after demo
+
